@@ -1,5 +1,5 @@
 # PatternSearch
-Assignment
+Steps to run the code:
 
 1. Create a new environment
 2. Run pip install -r requirements.txt
